@@ -10,13 +10,13 @@ Here is the information provided about the dataset, you can check it in this [li
 
 This data contains scraped data and has the following information:
 
-1- Prices of houses all over Mumbai along with their location
-2- Information about house condition (new/resale) and area of the house
-3- Information about various amenities provided
+1- Prices of houses all over Mumbai along with their location <br>
+2- Information about house condition (new/resale) and area of the house <br>
+3- Information about various amenities provided <br>
 
 ### Inspiration
 
 This data can be used for:
 
-1- Data Visualization of house prices and various features associated with it
+1- Data Visualization of house prices and various features associated with it <br>
 2- Predictive Data Analysis to predict house prices with varying features
